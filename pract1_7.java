@@ -1,3 +1,8 @@
+// NAME: KHUSHI GORIYA
+// ID:21CE035
+// Display numbers in a pyramid pattern.
+public class pract1_7 {
+
 public class pract1_7 {
     public static void main(String[] args) {
         int x=8;
