@@ -1,3 +1,7 @@
+//NAME: KHUSHI GORIYA 
+// ID: 21CE035
+//Given an array of inst, return true if the sequence of numbers 1,2,3 appears in the array somewhere
+
 import java.util.*;
 public class pract1_4 {
     static public void array123(int[] a)
